@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FFEAA7,DDA0DD,98D8C8,F7DC6F&multiline=true&width=600&height=100&lines=🎓+Data+Analytics+Graduate+%40+Northeastern;💊+Healthcare+Analytics+Specialist;🐍+Python+%7C+📊+R+%7C+🗃️+SQL+%7C+📈+Tableau;🤖+Machine+Learning+Enthusiast;🎯+Open+to+Full-time+Roles+July+2026;🚀+Turning+Complex+Data+into+Simple+Stories)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FFEAA7,DDA0DD,98D8C8,F7DC6F&multiline=true&width=600&height=100&lines=🎓+Data+Analytics+Graduate+%40+Northeastern;💊+Healthcare+Analytics+Specialist;🐍+Python+%7C+📊+R+%7C+🗃️+SQL+%7C+📈+Tableau+Expert;🤖+Machine+Learning+Enthusiast;🎯+Open+to+Full-time+Roles+July+2026;🚀+Turning+Complex+Data+into+Simple+Stories)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 🚀 Who Am I?
 
-Currently pursuing my **Master's in Data Analytics** at Northeastern University. I'm the guy who gets excited about finding patterns in messy datasets and turning numbers into stories that actually make sense.
+Currently pursuing **Master's in Data Analytics** at Northeastern University, Boston. I'm the guy who gets excited about finding patterns in messy datasets and turning numbers into stories that actually make sense.
 
 **🎯 What I'm up to:**
 - Building predictive models that actually work in the real world
@@ -41,6 +41,11 @@ Currently pursuing my **Master's in Data Analytics** at Northeastern University.
 
 ## 📊 What I've Been Building
 
+### 🧬 **Biotech Process Analytics** → *Solid Biosciences*
+Leading data analysis for upstream process development in genomic drug discovery. Optimizing bioreactor performance for treatments targeting cardiac and neuromuscular diseases through advanced data modeling.
+
+*Tech: Python, Statistical Analysis, Process Optimization, Bioprocess Data*
+
 ### 🩺 **Diabetes Prediction Model** → [Check it out](https://github.com/Vamshi782/diabetes-prediction-ml-project)
 Built a machine learning model that predicts diabetes with **83% accuracy**. Used Random Forest, KNN, and Logistic Regression to help with early healthcare intervention.
 
@@ -56,19 +61,38 @@ Real collaboration with a New Jersey clinic analyzing sleep health correlations.
 
 *Tech: SQL, Advanced Database Management*
 
+---
 
-## 🎓 Academic Journey
+## 📈 GitHub Wrapped
 
-**Northeastern University, Boston** | *Master of Science in Data Analytics*  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vamshi782&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshi782&layout=compact&langs_count=8&theme=synthwave&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vamshi782&theme=synthwave&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🎓 Academic & Professional Journey
+
+**Northeastern University** | *Master of Science in Data Analytics*  
 **Progress:** 60% Complete → **Graduation: June 2026**
 
+**Solid Biosciences** | *Process Development Analyst*  
+**Focus:** Genomic Drug Discovery Analytics → **Cardiac & Neuromuscular Diseases**
+
 ```text
-Completed Courses     ████████████░░░░░░░░░░  9/15
+Academic Progress     ████████████░░░░░░░░░░  9/15 Courses
+Professional Impact   ████████████████░░░░░░  Bioreactor Data Optimization
 ```
 
 **Recent Highlights:**
+- **Biotech Analytics**: Optimizing upstream processes for therapeutic development
 - **Data Mining Applications**: Working with massive Yelp datasets
-- **Industry Project**: 12-week collaboration with Wyman's Blueberries
+- **Industry Partnership**: 12-week collaboration with Wyman's Blueberries
 - **Machine Learning**: Built healthcare prediction models
 - **Database Management**: Real-world clinic data analysis
 
@@ -104,11 +128,12 @@ Completed Courses     ████████████░░░░░░░�
 <summary>🤔 More About Me</summary>
 <br>
 
-- 🏠 **Based in**: Currently studying at Northeastern University
+- 🧬 **Currently**: Process Development Analyst at Solid Biosciences
 - 🎯 **Looking for**: Full-time Data Analytics roles starting July 2026
 - 💭 **Philosophy**: Data without action is just fancy Excel sheets
+- 🔬 **Passion**: Using data to accelerate life-saving drug discovery
 - 🎨 **When not coding**: Exploring new places and documenting experiences on Instagram
-- ⚡ **Fun fact**: I can explain complex statistical concepts using food analogies
+- ⚡ **Fun fact**: I can explain complex bioprocessing concepts using everyday analogies
 
 </details>
 
