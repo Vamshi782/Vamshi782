@@ -1,55 +1,137 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Vamshi%20Krishna%20Korutla&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20Graduate%20Student&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Vamshi%20Krishna%20Korutla&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Turning%20Data%20into%20Decisions%20|%20Boston&descAlignY=55&descSize=16)
 
-## About Me
-- 🎓 **Master's Student in Data Analytics**, Northeastern University - Portland, Maine
-- 📊 **Data Analytics Enthusiast** with focus on Healthcare Analytics
-- 🤖 **Machine Learning** practitioner specializing in predictive modeling
-- 🏥 **Real-world Experience** with healthcare datasets and business analytics
-- 🌟 **Currently seeking** Data Analytics opportunities for Summer 2025
-
-## Current Focus
-- 🔬 Working on **Data Mining Applications** with large-scale Yelp datasets
-- 🫐 **Industry Partnership** with Wyman's Blueberries on market analytics
-- 📈 Building **AI-powered insights** for business intelligence
-- 💼 **60% complete** with Master's program - Expected graduation: June 2026
-
-## Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-## Featured Projects
-### 🩺 [Diabetes Prediction ML Model](https://github.com/Vamshi782/diabetes-prediction-ml-project)
-Machine Learning project to predict diabetes using patient data. Built using Python, scikit-learn, pandas, and matplotlib.
-- **Achieved 83% accuracy** with Random Forest algorithm
-- **Models**: Random Forest, KNN, Logistic Regression, Decision Tree
-
-### 📊 [School Data Analytics](https://github.com/Vamshi782/School-Data-Analytics)
-Comprehensive analysis of educational performance metrics using R and statistical modeling.
-
-## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vamshi782&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshi782&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180em"/>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Data+Analytics+Graduate+%40+Northeastern;Healthcare+Analytics+Specialist;Python+%7C+R+%7C+SQL+%7C+Tableau+Expert;Machine+Learning+Enthusiast;Open+to+Full-time+Roles+July+2026)](https://git.io/typing-svg)
+
 </div>
 
-## Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- Coming soon: Healthcare Analytics insights and ML tutorials
-<!-- BLOG-POST-LIST:END -->
+---
 
-## Connect With Me
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://vamshi782.github.io/portfolio.github.io/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vamshi-krishna-korutla)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vamshikrishna.korutla@gmail.com)
+## 🚀 Who Am I?
+
+Currently pursuing **Master's in Data Analytics** at Northeastern University, Boston. I'm the guy who gets excited about finding patterns in messy datasets and turning numbers into stories that actually make sense.
+
+**🎯 What I'm up to:**
+- Building predictive models that actually work in the real world
+- Collaborating with **Wyman's Blueberries** on market strategy (yes, the berry giant!)
+- Diving deep into **Yelp's massive datasets** for my data mining course
+- **Available for full-time Data Analytics roles starting July 2026**
+
+---
+
+## 🛠️ My Arsenal
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+
+![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+</div>
+
+---
+
+## 📊 What I've Been Building
+
+### 🩺 **Diabetes Prediction Model** → [Check it out](https://github.com/Vamshi782/diabetes-prediction-ml-project)
+Built a machine learning model that predicts diabetes with **83% accuracy**. Used Random Forest, KNN, and Logistic Regression to help with early healthcare intervention.
+
+*Tech: Python, scikit-learn, pandas, matplotlib*
+
+### 📚 **School Performance Analytics** → [Explore](https://github.com/Vamshi782/School-Data-Analytics) 
+Deep dive into educational data to uncover performance patterns and predict student outcomes.
+
+*Tech: R, Statistical Modeling, Data Visualization*
+
+### 🏥 **Healthcare Sleep Study** 
+Real collaboration with a New Jersey clinic analyzing sleep health correlations. Found some pretty interesting patterns between sleep quality and health metrics.
+
+*Tech: SQL, Advanced Database Management*
+
+---
+
+## 📈 GitHub Wrapped
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vamshi782&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshi782&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vamshi782&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🎓 Academic Journey
+
+**Northeastern University, Boston** | *Master of Science in Data Analytics*  
+**Progress:** 60% Complete → **Graduation: June 2026**
+
+```text
+Completed Courses     ████████████░░░░░░░░░░  9/15
+```
+
+**Recent Highlights:**
+- **Data Mining Applications**: Working with massive Yelp datasets
+- **Industry Project**: 12-week collaboration with Wyman's Blueberries
+- **Machine Learning**: Built healthcare prediction models
+- **Database Management**: Real-world clinic data analysis
+
+---
+
+## 🌍 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vamshi782.github.io/portfolio.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vamshi-krishna-korutla)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:korutla.v@northeastern.edu)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k_v_k_782/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Vamshi_k_782)
+
+</div>
+
+---
+
+## 💡 Fun Stats
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Vamshi782&label=Profile%20Views&color=667eea&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Vamshi782?label=Followers&style=for-the-badge&color=667eea)
+
+</div>
+
+---
+
+<details>
+<summary>🤔 More About Me</summary>
+<br>
+
+- 🏠 **Based in**: Boston, MA
+- 🎯 **Looking for**: Full-time Data Analytics roles starting July 2026
+- 💭 **Philosophy**: Data without action is just fancy Excel sheets
+- 🎨 **When not coding**: Exploring Boston's food scene and documenting it on Instagram
+- ⚡ **Fun fact**: I can explain complex statistical concepts using food analogies
+
+</details>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vamshi782&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=120&section=footer)
+### 📊 *"In data we trust, in insights we act"*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
+
+</div>
