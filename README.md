@@ -56,20 +56,6 @@ Real collaboration with a New Jersey clinic analyzing sleep health correlations.
 
 *Tech: SQL, Advanced Database Management*
 
----
-
-## 📈 GitHub Wrapped
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vamshi782&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshi782&layout=compact&langs_count=8&theme=synthwave&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vamshi782&theme=synthwave&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
 
 ## 🎓 Academic Journey
 
