@@ -10,7 +10,7 @@
 
 ## 🚀 Who Am I?
 
-Currently pursuing **Master's in Data Analytics** at Northeastern University, Boston. I'm the guy who gets excited about finding patterns in messy datasets and turning numbers into stories that actually make sense.
+Currently pursuing **Master's in Data Analytics** at Northeastern University. I'm the guy who gets excited about finding patterns in messy datasets and turning numbers into stories that actually make sense.
 
 **🎯 What I'm up to:**
 - Building predictive models that actually work in the real world
