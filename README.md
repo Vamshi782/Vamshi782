@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FFEAA7,DDA0DD,98D8C8,F7DC6F&multiline=true&width=600&height=100&lines=🎓+Data+Analytics+Graduate+%40+Northeastern;💊+Healthcare+Analytics+Specialist;🐍+Python+%7C+📊+R+%7C+🗃️+SQL+%7C+📈+Tableau+Expert;🤖+Machine+Learning+Enthusiast;🎯+Open+to+Full-time+Roles+July+2026;🚀+Turning+Complex+Data+into+Simple+Stories)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FFEAA7,DDA0DD,98D8C8,F7DC6F&multiline=true&width=600&height=100&lines=🎓+Data+Analytics+Graduate+%40+Northeastern;💊+Healthcare+Analytics;🐍+Python+%7C+📊+R+%7C+🗃️+SQL+%7C+📈+Tableau;🤖+Machine+Learning+Enthusiast;🎯+Open+to+Full-time+Roles+July+2026;🚀+Turning+Complex+Data+into+Simple+Stories)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 🚀 Who Am I?
 
-Currently pursuing **Master's in Data Analytics** at Northeastern University, Boston. I'm the guy who gets excited about finding patterns in messy datasets and turning numbers into stories that actually make sense.
+Currently pursuing **Master's in Data Analytics** at Northeastern University. I'm the guy who gets excited about finding patterns in messy datasets and turning numbers into stories that actually make sense.
 
 **🎯 What I'm up to:**
 - Building predictive models that actually work in the real world
@@ -60,19 +60,6 @@ Deep dive into educational data to uncover performance patterns and predict stud
 Real collaboration with a New Jersey clinic analyzing sleep health correlations. Found some pretty interesting patterns between sleep quality and health metrics.
 
 *Tech: SQL, Advanced Database Management*
-
----
-
-## 📈 GitHub Wrapped
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vamshi782&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshi782&layout=compact&langs_count=8&theme=synthwave&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vamshi782&theme=synthwave&hide_border=true" alt="GitHub Streak"/>
-</div>
 
 ---
 
