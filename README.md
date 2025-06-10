@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FFEAA7,DDA0DD,98D8C8,F7DC6F&multiline=true&width=600&height=100&lines=🎓+Data+Analytics+Graduate+%40+Northeastern;💊+Healthcare+Analytics+Specialist;🐍+Python+%7C+📊+R+%7C+🗃️+SQL+%7C+📈+Tableau+Expert;🤖+Machine+Learning+Enthusiast;🎯+Open+to+Full-time+Roles+July+2026;🚀+Turning+Complex+Data+into+Simple+Stories)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FFEAA7,DDA0DD,98D8C8,F7DC6F&multiline=true&width=600&height=100&lines=🎓+Data+Analytics+Graduate+%40+Northeastern;💊+Healthcare+Analytics+Specialist;🐍+Python+%7C+📊+R+%7C+🗃️+SQL+%7C+📈+Tableau;🤖+Machine+Learning+Enthusiast;🎯+Open+to+Full-time+Roles+July+2026;🚀+Turning+Complex+Data+into+Simple+Stories)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 🚀 Who Am I?
 
-Currently pursuing **Master's in Data Analytics** at Northeastern University, Boston. I'm the guy who gets excited about finding patterns in messy datasets and turning numbers into stories that actually make sense.
+Currently pursuing my **Master's in Data Analytics** at Northeastern University. I'm the guy who gets excited about finding patterns in messy datasets and turning numbers into stories that actually make sense.
 
 **🎯 What I'm up to:**
 - Building predictive models that actually work in the real world
