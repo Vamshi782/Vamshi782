@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Vamshi%20Krishna%20Korutla&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Turning%20Data%20into%20Decisions%20|%20Boston&descAlignY=55&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Vamshi%20Krishna%20Korutla&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Turning%20Data%20into%20Decisions%20|descAlignY=55&descSize=16)
 
 <div align="center">
   
