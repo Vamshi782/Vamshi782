@@ -49,8 +49,6 @@ I’ve worked at the intersection of **data, science, and business**, where accu
 **Tech Stack**:  
 Python · pandas · Statistical Analysis · Process Analytics · Data Visualization
 
-> This is intentionally framed as **Data Analyst / Applied Data Scientist** — accurate, defensible, and recruiter-friendly.
-
 ---
 
 ## 🛠️ Technical Toolkit
