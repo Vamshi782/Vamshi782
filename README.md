@@ -4,7 +4,7 @@
 
 ### Turning complex data into decisions leaders can actually use
 
-🎓 MS in Data Analytics — Northeastern University  
+🎓 MS in Data Analytics - Northeastern University  
 💊 Healthcare & Biotech Analytics | 📊 Business Intelligence  
 📍 Boston, MA | 🧠 Data-first, impact-driven  
 
@@ -15,7 +15,7 @@
 ## 🔎 At a Glance (For Recruiters)
 
 - **Target Roles**  
-  Business Intelligence Analyst · Data Analyst · Data Scientist (Applied)
+  Business Intelligence Analyst · Data Analyst · Data Scientist 
 
 - **Industries**  
   Healthcare · Biotech · Life Sciences · Business Analytics
